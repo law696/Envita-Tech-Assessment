@@ -1,0 +1,6 @@
+TextItem(text=test, timestamp=1681174133783)
+TextItem(text=test, timestamp=1681174287999)
+TextItem(text=test, timestamp=1681174401031)
+TextItem(text=test, timestamp=1681174533142)
+TextItem(text=test, timestamp=1681174558667)
+TextItem(text=test, timestamp=1681174596327)
